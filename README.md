@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ClaraBara22
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ClaraBara22/ClaraBara22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm very shy
+I'm I'm a curious person 
+I want to become proficient and active collaboration 
